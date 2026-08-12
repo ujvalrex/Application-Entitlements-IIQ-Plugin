@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE Plugin PUBLIC "sailpoint.dtd" "sailpoint.dtd">
-<Plugin displayName="Application Entitlements Plugin" minSystemVersion="8.0" name="ApplicationEntitlementsPlugin" rightRequired="" version="3.1">
+<Plugin displayName="Application Entitlements Plugin" minSystemVersion="8.0" name="ApplicationEntitlementsPlugin" rightRequired="" version="1.0">
 	<Attributes>
 		<Map>
-			<entry key="minUpgradableVersion" value="3.0"/>
+			<entry key="minUpgradableVersion" value="0.1"/>
 			<entry key="restResources">
 				<value>
 					<List>
