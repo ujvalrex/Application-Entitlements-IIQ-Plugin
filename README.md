@@ -52,7 +52,7 @@
 2. Confirm that an **Entitlements** tab appears right after the **Accounts** tab.
 3. Open the tab and confirm that the entitlements load, the page count and "Displaying X of Y" text are correct, and the Attribute Type dropdown lists the application's entitlement types.
 
-<img width="1909" height="713" alt="image" src="https://github.com/user-attachments/assets/a3ab4292-b313-416b-942e-242f7aa10e5d" />
+<img width="1919" height="572" alt="image" src="https://github.com/user-attachments/assets/3fbce9b5-6501-4360-ba37-e353d02adc9a" />
 
 ## Usage
 
