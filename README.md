@@ -15,20 +15,18 @@
 ## New In Version 1.0
 
 1. Added an **Entitlements** tab on the Application Configuration page, placed right after the **Accounts** tab.
-2. Added server-side pagination with First / Previous / Next / Last buttons, an editable page number, and a selectable page size (5, 10, 20, 25, 50, 75, 100 - default 25).
-3. Added search (button, Enter key, and a clear **×** button) that runs on the server and resets to page 1.
-4. Added an **Attribute Type** dropdown that is populated dynamically from the entitlement types that exist for the selected application (for example `memberOf` for Active Directory, or `roles` / `groups` for custom applications).
-5. Added click-to-sort column headers (ID, Attribute, Display Name, Value).
-6. Added a **Refresh** button and an in-table loading indicator.
-7. Added click-through navigation: the **ID** links to the entitlement's edit page in a new tab, and clicking anywhere else on a row opens the standard IdentityIQ entitlement details view.
-8. Added icon-based **Requestable** column (green check / red cross).
+2. Added search (button, Enter key, and a clear **×** button) that runs on the server and resets to page 1.
+3. Added an **Attribute Type** dropdown that is populated dynamically from the entitlement types that exist for the selected application (for example `memberOf` for Active Directory, or `roles` / `groups` for custom applications).
+4. Added click-to-sort column headers (ID, Attribute, Display Name, Value).
+5. Added a **Refresh** button and an in-table loading indicator.
+6. Added click-through navigation: the **ID** links to the entitlement's edit page in a new tab, and clicking anywhere else on a row opens the standard IdentityIQ entitlement details view.
+7. Added icon-based **Requestable** column (green check / red cross).
 
 ## Features
 
 - **Entitlements tab** - Injected into the existing Application Configuration tab panel, next to **Accounts**. No other tab is modified or resized.
 - **Columns** - ID, Attribute, Display Name, Value, Owner, Requestable.
 - **Pagination** - Server-side. Only the requested page is fetched from IdentityIQ. Shows "Displaying X of Y".
-- **Page size** - Dropdown with 5, 10, 20, 25, 50, 75, 100 items per page.
 - **Search** - Matches entitlements for the current application. Supports the search button, the Enter key, and a clear button.
 - **Attribute Type filter** - Dropdown listing the entitlement attribute types found for the application. Leave blank to show all types.
 - **Sorting** - Click a sortable column header to toggle ascending / descending.
@@ -41,7 +39,8 @@
 - Go to the **Gear icon > Plugins** and upload the plugin ZIP (**New** button, or drag and drop the file).
 - Wait for the plugin to show as installed / enabled.
 
-![Plugin installation](docs/images/installation.png)
+<img width="1649" height="315" alt="image" src="https://github.com/user-attachments/assets/fe821943-bd25-49fd-a583-f1624252b216"/>
+<img width="460" height="246" alt="image" src="https://github.com/user-attachments/assets/77eaa328-bbb4-419a-af6a-c1f5d449764b"/>
 
 ## Configuration
 
