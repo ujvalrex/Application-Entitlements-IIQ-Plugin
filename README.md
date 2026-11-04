@@ -1,6 +1,6 @@
 # Application Entitlements
 
-### Plugin Name: - Application Entitlements Plugin
+### Plugin Name: - Application Entitlements
 
 ### Plugin Version: - 1.0.0
 
@@ -10,7 +10,7 @@
 
 ### Primary function: - Adds an **Entitlements** tab to the Application Configuration page so administrators can browse, search, filter, and open the entitlements of an application without leaving the page.
 
-![Entitlements tab](docs/images/entitlements-tab.png)
+<img width="1280" height="742" alt="application-entitlements-plugin-cover" src="https://github.com/user-attachments/assets/3c37e0f5-42d6-4638-95cb-cdcd5d61a953"/>
 
 ## New In Version 1.0
 
